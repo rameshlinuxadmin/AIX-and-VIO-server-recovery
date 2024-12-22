@@ -92,7 +92,8 @@ This project is licensed under the MIT License.
 Contributions are welcome! Please fork this repository and submit a pull request with any improvements.  
 
 ## Author  
-[Your Name or Organization]  
+Ramesh Aravind E
+Linux and Cloud Engineer
 
 ---  
 For detailed documentation, refer to the [guide](./Creating%20spot%20instance%20for%20AIX%20and%20VIO%20server%20recovery.pdf).  
