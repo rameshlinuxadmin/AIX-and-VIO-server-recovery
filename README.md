@@ -75,7 +75,7 @@ SPOT is a fundamental resource in the NIM environment. It provides the necessary
 - Backup and modify `/etc/filesystems`:
   ```bash
   cp /etc/filesystems /etc/filesystems_backup
-  sed -e "s/^\/backupmksys_tsm/*&/" /etc/filesystems > /tmp/filesystems_modified
+  sed -e "s/^\/filesystem/*&/" /etc/filesystems > /tmp/filesystems_modified
   cp /tmp/filesystems_modified /etc/filesystems
   sync; sync; reboot
   ```
